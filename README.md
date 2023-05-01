@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Petro Shutak and I'm very glad to see you!
-
+### My <a href="https://www.linkedin.com/in/petroshutak/">LinkedIn</a>
 ### This is my project library / Welcome
 
 ### My first project - <a href="https://petroshutak.github.io/goit-markup-hw-07/">WebStudio</a>
