@@ -2,9 +2,9 @@
 
 ### This is my project library / Welcome
 
-### My first project - https://petroshutak.github.io/goit-markup-hw-07/
-### My second project(team) - https://petekostrytsya.github.io/DevHunt/
-### Homework in GoIT/JS - https://petroshutak.github.io/JS-Homework-GoIT/
+### My first project - <a href="https://petroshutak.github.io/goit-markup-hw-07/">WebStudio</a>
+### My second project(team) - <a href="https://petekostrytsya.github.io/DevHunt/">Ice Cream - DevHunt ©</a>
+### Personal project - <a href="https://petroshutak.github.io/JS-Homework-GoIT/">JS-Homework-GoIT ©</a>
 ### My third project(team) - https://petroshutak.github.io/devHunt-team-project-js/
 
 ### Support me to make my dream come true - <a href="https://send.monobank.ua/jar/4vdPfcUt41">Support</a>
