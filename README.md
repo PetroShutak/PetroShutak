@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Petro Shutak and I'm very glad to see you!
+
 ### This is my project library / Welcome
+
+### My first project - https://petroshutak.github.io/goit-markup-hw-07/
+### My second project(team) - https://petekostrytsya.github.io/DevHunt/
+### Homework in GoIT/JS - https://petroshutak.github.io/JS-Homework-GoIT/
+### My third project(team) - https://petroshutak.github.io/devHunt-team-project-js/
+
+### Support me to make my dream come true - https://send.monobank.ua/jar/4vdPfcUt41
 <!--
 **PetroShutak/PetroShutak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
