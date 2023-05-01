@@ -7,7 +7,7 @@
 ### Homework in GoIT/JS - https://petroshutak.github.io/JS-Homework-GoIT/
 ### My third project(team) - https://petroshutak.github.io/devHunt-team-project-js/
 
-### Support me to make my dream come true - https://send.monobank.ua/jar/4vdPfcUt41
+### Support me to make my dream come true - <a href="https://send.monobank.ua/jar/4vdPfcUt41">Support</a>
 <!--
 **PetroShutak/PetroShutak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
