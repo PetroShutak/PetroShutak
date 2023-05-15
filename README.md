@@ -2,7 +2,7 @@
 ### My <a href="https://www.linkedin.com/in/petroshutak/">LinkedIn</a>
 ### This is my project library / Welcome
 
-### My first project - <a target="_blank" href="https://petroshutak.github.io/goit-markup-hw-07/">WebStudio</a>
+### My first project - <a href="https://petroshutak.github.io/goit-markup-hw-07/">WebStudio</a>
 ### My second project(team) - <a href="https://petekostrytsya.github.io/DevHunt/">Ice Cream - DevHunt ©</a>
 ### Personal project - <a href="https://petroshutak.github.io/JS-Homework-GoIT/">JS-Homework-GoIT ©</a>
 ### My third project(team) - <a href="https://petroshutak.github.io/devHunt-team-project-js/">Bookshelf - devHunt ©</a>
