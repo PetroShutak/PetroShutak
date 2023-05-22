@@ -1,6 +1,13 @@
 ### Hi there 👋 I'm Petro Shutak and I'm very glad to see you!
 ### My <a href="https://www.linkedin.com/in/petroshutak/">LinkedIn</a>
 ### This is my project library / Welcome
+### My stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,vscode,vite,webpack" />
+  </a>
+</p>
+
 
 ### My first project - <a href="https://petroshutak.github.io/goit-markup-hw-07/">WebStudio</a>
 ### My second project(team) - <a href="https://petekostrytsya.github.io/DevHunt/">Ice Cream - DevHunt ©</a>
