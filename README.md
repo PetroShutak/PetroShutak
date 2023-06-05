@@ -14,7 +14,7 @@
 ### Personal project - <a href="https://petroshutak.github.io/JS-Homework-GoIT/" target="_blank">JS-Homework-GoIT ©</a>
 ### My third project(team) - <a href="https://petroshutak.github.io/devHunt-team-project-js/" target="_blank">Bookshelf - devHunt ©</a>
 
-### Introduction to React- <a href="https://petroshutak.github.io/react-hook-project/" target="_blank">React HW ©</a>
+### Introduction to React - <a href="https://petroshutak.github.io/react-hook-project/" target="_blank">React HW ©</a>
 
 ### Support me to make my dream come true - <a href="https://send.monobank.ua/jar/4vdPfcUt41" target="_blank">Support</a>
 <!--
