@@ -17,6 +17,10 @@
 ### Introduction to React - <a href="https://petroshutak.github.io/react-hook-project/" target="_blank">React HW ©</a>
 
 ### Support me to make my dream come true - <a href="https://send.monobank.ua/jar/4vdPfcUt41" target="_blank">Support</a>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PetroShutak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **PetroShutak/PetroShutak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
