@@ -2,11 +2,15 @@
 ### My <a href="https://www.linkedin.com/in/petroshutak/">LinkedIn</a>
 ### This is my project library / Welcome
 ### My stack:
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,mongodb,postman,express,firebase,sass,materialui,styledcomponents,git,github,vscode,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,mongodb,postman" style="display: inline-block; margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=express,firebase,sass,materialui" style="display: inline-block; margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents,git,github,vscode" style="display: inline-block; margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=vite,webpack" style="display: inline-block; margin: 5px;" />
   </a>
-</p>
+</div>
 
 
 ### My first project - <a href="https://petroshutak.github.io/goit-markup-hw-07/" target="_blank">WebStudio</a>
