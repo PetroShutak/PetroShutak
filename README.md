@@ -4,7 +4,7 @@
 ### My stack:
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,mongodb,postman,express,firebase,materialui,styledcomponents,git,github,vscode,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,mongodb,postman,express,firebase,sass,materialui,styledcomponents,git,github,vscode,vite,webpack" />
   </a>
 </p>
 
