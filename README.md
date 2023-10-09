@@ -20,6 +20,9 @@
 
 ### Introduction to React - <a href="https://petroshutak.github.io/react-hook-project/" target="_blank">React HW ©</a>
 ### Final app of course React - <a href="https://petroshutak.github.io/goit-react-hw-08-phonebook" target="_blank">PhoneBook.React/Redux ©</a>
+### Team project(final app of course React+Node.js) - <a href="https://alextkachenkofullstack.github.io/healthy-hub/" target="_blank">HealthyHub ©</a> - frontend; <a href="https://backend-healthyhub.onrender.com/api-docs/" target="_blank">Web API ©</a> - backend
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PetroShutak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Support me to make my dream come true - <a href="https://send.monobank.ua/jar/4vdPfcUt41" target="_blank">Support</a>
